@@ -1,3 +1,3 @@
 # ligo
 
-it's like [https://github.com/violetwtf/li](github.com/violetwtf/li) but written in Go
+it's like https://github.com/violetwtf/li but written in Go
